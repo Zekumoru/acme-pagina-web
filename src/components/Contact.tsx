@@ -8,7 +8,11 @@ const Contact = () => {
         <tr>
           <th>Le filiali</th>
           <td>
-            <img className="w-48" src="/assets/images/building.jpeg" alt="" />
+            <img
+              className="w-48"
+              src="/acme-pagina-web/assets/images/building.jpeg"
+              alt=""
+            />
           </td>
           <td>
             <Subsidiaries />
@@ -17,14 +21,22 @@ const Contact = () => {
         <tr>
           <th>Numero verde</th>
           <td>
-            <img className="w-48" src="/assets/images/telephone.jpg" alt="" />
+            <img
+              className="w-48"
+              src="/acme-pagina-web/assets/images/telephone.jpg"
+              alt=""
+            />
           </td>
           <td>800 131 431</td>
         </tr>
         <tr>
           <th>Email</th>
           <td>
-            <img className="w-48" src="/assets/images/at-symbol.png" alt="" />
+            <img
+              className="w-48"
+              src="/acme-pagina-web/assets/images/at-symbol.png"
+              alt=""
+            />
           </td>
           <td>info@acme.it</td>
         </tr>
